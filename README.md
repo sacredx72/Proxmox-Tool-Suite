@@ -25,7 +25,7 @@ A Bash script designed to simplify common management tasks for Proxmox VE, focus
 ## Installation
 1. Download the script:
    ```bash
-   wget https://raw.githubusercontent.com/YOUR_USERNAME/proxmox-tool-suite/main/proxmox-tools.sh
+   wget https://raw.githubusercontent.com/sacredx72/proxmox-tool-suite/main/proxmox-tools.sh
 
 # Proxmox Tool Suite
 
